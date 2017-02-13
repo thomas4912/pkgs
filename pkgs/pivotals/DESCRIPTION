@@ -1,0 +1,13 @@
+Package: pivotals
+Title: Functions implementing pivotal Monte Carlo methods
+Version: 0.1.10
+Date: 2014-5-9
+Author: Jacob T. Ormerod
+Maintainer: David Silkworth <davidsilkworth@openreliability.me>
+Description: Functions specific to pivotal Monte Carlo analysis for weibull and lognormal distributed data.
+License: GPL (>= 2)
+LazyLoad: yes
+Imports: Rcpp (>= 0.11.1), RcppArmadillo (>= 0.4.100.2.1)
+LinkingTo: Rcpp, RcppArmadillo
+Date/Publication: 2014-05-09 16:20:46
+Packaged: 2014-05-09 18:15:11 UTC;
